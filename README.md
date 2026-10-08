@@ -1,10 +1,10 @@
-# 🚀 Guia Completo: Git, GitHub e API TMDB
+# Guia Completo: Git, GitHub e API TMDB
 
 > Este guia foi feito para que todos no grupo consigam configurar o ambiente, trabalhar com Git/GitHub do zero e consumir os dados da API do TMDB.
 
 ---
 
-## 🛠️ 1. Pré-requisitos (O que instalar antes)
+## 1. Pré-requisitos (O que instalar antes)
 
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas na sua máquina:
 
@@ -46,7 +46,7 @@ pip3 install requests python-dotenv pandas
 
 ---
 
-## 🔑 3. Configurando o Arquivo `.env` (Chave da API)
+## 3. Configurando o Arquivo `.env` (Chave da API)
 
 Para garantir a segurança, a chave da API **nunca deve ser enviada para o GitHub**. Ela é salva localmente no arquivo `.env`.
 
@@ -63,7 +63,7 @@ Para garantir a segurança, a chave da API **nunca deve ser enviada para o GitHu
 
 ---
 
-## ⚙️ 4. Configuração Inicial do Git (Apenas na 1ª vez)
+## 4. Configuração Inicial do Git (Apenas na 1ª vez)
 
 Apenas na primeira vez que for utilizar o Git no seu computador, abra o terminal e registre suas credenciais:
 
@@ -74,7 +74,7 @@ git config --global user.email "seu-email@exemplo.com"
 
 ---
 
-## 🌿 5. Entendendo Branches (Ramificações)
+## 5. Entendendo Branches (Ramificações)
 
 Pense no Git como um projeto estruturado em árvore:
 
@@ -87,7 +87,7 @@ Pense no Git como um projeto estruturado em árvore:
 
 ---
 
-## 🔄 6. Fluxo de Trabalho Diário (Passo a Passo)
+## 6. Fluxo de Trabalho Diário (Passo a Passo)
 
 Siga este roteiro sempre que for trabalhar no projeto:
 
@@ -130,7 +130,7 @@ git push -u origin nome-da-sua-branch
 
 ---
 
-## 🐍 7. Código de Exemplo: Testando a API
+## 7. Código de Exemplo: Testando a API
 
 ROde o arquivo `teste_api.py` para testar se a conexão e o arquivo `.env` estão funcionando corretamente. Isso aqui deve aparecer:
 
