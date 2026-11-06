@@ -9,9 +9,9 @@
   - [ ] Investigar se alguma década específica apresenta maior volume de dados faltantes ou inconsistências.
   - [ ] Documentar o contexto histórico/técnico dessas falhas temporais.
 
-- [ ] **2. Recortes Temporais do Lucro (Ano e Década)**
-  - [ ] Agrupar os dados financeiros por ano de lançamento e por décadas.
-  - [ ] Mapear a evolução do lucro médio e total ao longo dos anos.
+- [x] **2. Recortes Temporais do Lucro (Ano e Década)**
+  - [x] Agrupar os dados financeiros por ano de lançamento e por décadas.
+  - [x] Mapear a evolução do lucro médio e total ao longo dos anos.
 
 - [ ] **3. Gráfico Temporal de Gêneros por Década**
   - [ ] Cruzar a distribuição dos gêneros cinematográficos com as respectivas décadas.
