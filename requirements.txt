@@ -1,0 +1,10 @@
+# Dependências do notebook dados.ipynb (Python 3.10+; desenvolvido em 3.14)
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+gdown>=5.0
+# Para abrir/executar o notebook
+jupyterlab>=4.0
+# Apenas para o script opcional de coleta via API do TMDB
+requests>=2.31
